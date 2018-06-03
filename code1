@@ -1,0 +1,5 @@
+public main extend Activity{
+	onCreate()
+}
+modify after git commit
+
